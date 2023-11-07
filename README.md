@@ -1,2 +1,2 @@
 # LambdaOS
-A lightweight and user friendly Linux distro.
+An operating system based on Linux Mint, being lightweight, simple, and user friendly.
