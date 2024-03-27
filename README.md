@@ -13,5 +13,5 @@ This operating system is released under the GPL v3 with the additional exemption
 that compiling, linking, and/or using OpenSSL is allowed. You may
 provide binary packages linked to the OpenSSL libraries, provided that
 all other requirements of the GPL are met.
-See file COPYING for details.
+See file LICENSE for details.
 </sub>
