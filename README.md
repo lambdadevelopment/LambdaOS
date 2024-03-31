@@ -1,4 +1,4 @@
-# LambdaOS
+![Logo](lambdaos/lambda.png)
 
 LambdaOS is a fully functional open source operating system based on Linux Mint.
 - See our [Discord](https://discord.gg/T2wwXw4yrp) to see what I've been doing the past few months.
