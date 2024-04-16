@@ -1,1 +1,3 @@
 LambdaOS is a Linux Mint distribution (github.com/linuxmint or linuxmint.com). We have no affiliation with the Linux Mint team and since both LambdaOS and Linux Mint uses the same license, LambdaOS comes with NO warranty! If anything goes wrong, we are NOT liable and you'll have to re-install the operating system.
+
+Also, this GitHub repository is now tailored for hosting the [LambdaOS website](https://lambdadevelopment.github.io/lambdaos)
