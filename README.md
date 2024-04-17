@@ -3,7 +3,7 @@
 ***LambdaOS***
 
 LambdaOS is an open source operating system based on Linux Mint.
-- See our [website](https://lambdadevelopment.github.io/lambdaos) to see what our latest release.
+- See our [website](https://lambdadevelopment.github.io/lambdaos) to see our latest release.
 ---
 
 <sub>
