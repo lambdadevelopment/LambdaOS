@@ -2,7 +2,7 @@
 
 ***LambdaOS***
 
-LambdaOS is an open source operating system based on Linux Mint.
+LambdaOS is an open source operating system based on Kubuntu.
 - See our [website](https://theosteam.github.io/lambdaos) to see our latest release.
 ---
 
